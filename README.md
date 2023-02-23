@@ -1,1 +1,0 @@
-# booking-sample-tests
